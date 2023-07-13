@@ -8,7 +8,7 @@ To make things interesting, we can choose a very specific reward function:
 
 `Reward = Sum of time intervals spent following a locally-optimal policy`
 
-A policy is a function from state to action. A locally-optimal policy is a policy that maximizes a local reward function. Paradoxically, our local reward function may become quite unrewarding when optimized for.
+A locally-optimal policy is a policy that maximizes a local reward function. Paradoxically, our local reward function may become quite unrewarding when optimized for.
 
 However, you can define a locally-optimal policy & follow it for a limited time. After timeout, you can define a new locally-optimal policy. This is quite similar to how we live our lives - we focus on a specific reward function for some time, then switch to another reward function.
 
