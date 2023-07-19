@@ -10,8 +10,8 @@ Intentions:
 * Should explain a single novel concept
 * Should be written according to advice:
   * http://paulgraham.com/writing44.html
-  * http://www.paulgraham.com/useful.html
-  * http://www.paulgraham.com/talk.html
+  * http://paulgraham.com/useful.html
+  * http://paulgraham.com/talk.html
 
 ## Title
 
